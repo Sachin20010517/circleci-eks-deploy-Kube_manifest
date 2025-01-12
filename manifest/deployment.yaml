@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sachinayeshmantha/circleci-eks-deploy:build-19
+        image: sachinayeshmantha/circleci-eks-deploy:build-21
         ports:
         - containerPort: 80
